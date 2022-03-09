@@ -9,8 +9,9 @@ def Add():
 
 
 #引き算
-def Sub():
-
+def Sub(a, b):
+    ans = a - b
+    return ans
 
 #掛け算
 def Mul():
