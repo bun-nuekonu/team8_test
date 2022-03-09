@@ -19,9 +19,10 @@ def Mul(x,y):
 
 
 #割り算
-def Div():
-
-
+def Div(x, y):
+    z = x / y
+    return z
+    
 
 def main():
 
