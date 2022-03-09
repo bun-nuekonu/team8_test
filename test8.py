@@ -14,7 +14,8 @@ def Sub(a, b):
     return ans
 
 #掛け算
-def Mul():
+def Mul(x,y):
+    return x * y
 
 
 #割り算
